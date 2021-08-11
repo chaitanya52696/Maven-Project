@@ -6,7 +6,7 @@
   <artifactId>chai2</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>chai2</name>
+  <name>chai11:</name>
   <url>http://maven.apache.org</url>
 
   <properties>
