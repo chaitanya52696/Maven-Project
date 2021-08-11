@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>chai2</finalName>
+    <finalName>chai3</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
